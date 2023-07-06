@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-Projeto 03 - Mobile First do modulo Avançado no HTML e CSS - Explore Rocketseat
+Projeto 06 - Mobile First do modulo Avançado no HTML e CSS - Explore Rocketseat
 
 Nesse desafio foi recriado um projeto aplicando display: grid, transições, animações e responsividade. O projeto foi feito a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
 - Utilização de variáveis no CSS;
